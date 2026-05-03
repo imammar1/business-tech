@@ -1,0 +1,553 @@
+﻿Order_ID,Customer_ID,Order_Date,Week_Start,Day_of_Week,Meal_Name,Meal_Category,Quantity,Price_Per_Meal,Total_Order_Value,Order_Type,Subscription_Plan,Pickup_or_Delivery,Promo_Used,Store_Location
+O0001,C040,2026-02-01,2026-01-26,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0002,C035,2026-02-01,2026-01-26,Sunday,The Kafta Burger,Handheld,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0003,C065,2026-02-01,2026-01-26,Sunday,Chicken Pesto Pasta,Bowl/Pasta,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0004,C084,2026-02-01,2026-01-26,Sunday,Southwest Chipotle Chicken Wraps,Wrap,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,BULK5,Canton
+O0005,C040,2026-02-01,2026-01-26,Sunday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,BULK5,Southfield
+O0006,C018,2026-02-01,2026-01-26,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,4,$5.20,$20.80,Subscription,20 Meals ($5.20 ea.),Pickup,BULK5,Southfield
+O0007,C033,2026-02-01,2026-01-26,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,BULK5,Southfield
+O0008,C037,2026-02-01,2026-01-26,Sunday,Lite Bacon Cheeseburger,Handheld,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Novi
+O0009,C001,2026-02-01,2026-01-26,Sunday,Ground Beef + Pasta,Bowl/Pasta,4,$5.60,$22.40,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0010,C028,2026-02-01,2026-01-26,Sunday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0011,C032,2026-02-02,2026-02-02,Monday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,BULK5,Canton
+O0012,C006,2026-02-02,2026-02-02,Monday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0013,C020,2026-02-02,2026-02-02,Monday,Steak Alfredo,Bowl/Pasta,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0014,C080,2026-02-02,2026-02-02,Monday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,WELCOME10,Novi
+O0015,C065,2026-02-02,2026-02-02,Monday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0016,C088,2026-02-02,2026-02-02,Monday,The Kafta Burger,Handheld,3,$6.99,$18.87,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0017,C004,2026-02-03,2026-02-02,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0018,C072,2026-02-03,2026-02-02,Tuesday,Turkey Bacon Wrap,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0019,C001,2026-02-03,2026-02-02,Tuesday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0020,C068,2026-02-03,2026-02-02,Tuesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0021,C031,2026-02-03,2026-02-02,Tuesday,Meat Shawarma Bowl,Bowl/Pasta,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0022,C062,2026-02-04,2026-02-02,Wednesday,Shrimp Alfredo,Seafood,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0023,C019,2026-02-04,2026-02-02,Wednesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0024,C002,2026-02-04,2026-02-02,Wednesday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,FITWEEK,Taylor
+O0025,C087,2026-02-04,2026-02-02,Wednesday,Lite Bacon Cheeseburger,Handheld,2,$5.40,$10.80,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Dearborn Heights
+O0026,C071,2026-02-04,2026-02-02,Wednesday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,4,$5.49,$19.76,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0027,C010,2026-02-04,2026-02-02,Wednesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$6.49,$5.84,One-Time,One-Time Purchase,Delivery,SPRING10,Dearborn Heights
+O0028,C075,2026-02-04,2026-02-02,Wednesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$5.40,$10.80,Subscription,15 Meals ($5.40 ea.),Pickup,FITWEEK,Southfield
+O0029,C036,2026-02-05,2026-02-02,Thursday,Meat Shawarma Bowl,Bowl/Pasta,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0030,C001,2026-02-05,2026-02-02,Thursday,Steak Alfredo,Bowl/Pasta,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0031,C016,2026-02-05,2026-02-02,Thursday,Ground Beef + Pasta,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
+O0032,C002,2026-02-05,2026-02-02,Thursday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Delivery,NONE,Canton
+O0033,C010,2026-02-05,2026-02-02,Thursday,Taco Salad,Salad,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,SPRING10,Dearborn Heights
+O0034,C085,2026-02-05,2026-02-02,Thursday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Taylor
+O0035,C048,2026-02-05,2026-02-02,Thursday,BBQ Chicken Pizza,Handheld,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,WELCOME10,Canton
+O0036,C071,2026-02-05,2026-02-02,Thursday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0037,C018,2026-02-05,2026-02-02,Thursday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,SPRING10,Taylor
+O0038,C061,2026-02-05,2026-02-02,Thursday,Ground Beef + Pasta,Bowl/Pasta,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0039,C034,2026-02-05,2026-02-02,Thursday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Taylor
+O0040,C010,2026-02-06,2026-02-02,Friday,BBQ Chicken Pizza,Handheld,3,$5.60,$16.80,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0041,C058,2026-02-06,2026-02-02,Friday,Ground Beef Pizza,Handheld,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Dearborn Heights
+O0042,C041,2026-02-06,2026-02-02,Friday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0043,C053,2026-02-06,2026-02-02,Friday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0044,C064,2026-02-06,2026-02-02,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0045,C028,2026-02-06,2026-02-02,Friday,BBQ Chicken Pizza,Handheld,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0046,C003,2026-02-06,2026-02-02,Friday,Taco Salad,Salad,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,SPRING10,Canton
+O0047,C063,2026-02-06,2026-02-02,Friday,Steak Alfredo,Bowl/Pasta,3,$5.40,$16.20,Subscription,15 Meals ($5.40 ea.),Pickup,SPRING10,Novi
+O0048,C058,2026-02-06,2026-02-02,Friday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Delivery,NONE,Dearborn Heights
+O0049,C083,2026-02-06,2026-02-02,Friday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0050,C005,2026-02-07,2026-02-02,Saturday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0051,C013,2026-02-07,2026-02-02,Saturday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0052,C077,2026-02-07,2026-02-02,Saturday,BBQ Chicken Meatballs + Broccoli,Protein Plate,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0053,C083,2026-02-07,2026-02-02,Saturday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0054,C084,2026-02-07,2026-02-02,Saturday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0055,C011,2026-02-07,2026-02-02,Saturday,Southwest Chipotle Chicken Wraps,Wrap,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0056,C044,2026-02-07,2026-02-02,Saturday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0057,C065,2026-02-07,2026-02-02,Saturday,Chicken Pesto Pasta,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0058,C030,2026-02-07,2026-02-02,Saturday,Meat Shawarma Bowl,Bowl/Pasta,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0059,C064,2026-02-07,2026-02-02,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,3,$6.99,$20.97,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0060,C077,2026-02-07,2026-02-02,Saturday,Steak Alfredo,Bowl/Pasta,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0061,C007,2026-02-07,2026-02-02,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,SPRING10,Southfield
+O0062,C015,2026-02-07,2026-02-02,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0063,C005,2026-02-08,2026-02-02,Sunday,Southwest Chipotle Chicken Wraps,Wrap,2,$5.99,$10.78,One-Time,One-Time Purchase,Delivery,BULK5,Novi
+O0064,C022,2026-02-08,2026-02-02,Sunday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0065,C072,2026-02-08,2026-02-02,Sunday,Steak Alfredo,Bowl/Pasta,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0066,C012,2026-02-08,2026-02-02,Sunday,Lite Bacon Cheeseburger,Handheld,2,$4.99,$9.98,One-Time,One-Time Purchase,Delivery,NONE,Taylor
+O0067,C042,2026-02-08,2026-02-02,Sunday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,3,$5.99,$17.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0068,C052,2026-02-08,2026-02-02,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,BULK5,Taylor
+O0069,C009,2026-02-08,2026-02-02,Sunday,Ground Beef + Pasta,Bowl/Pasta,1,$6.99,$6.99,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0070,C034,2026-02-08,2026-02-02,Sunday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0071,C009,2026-02-08,2026-02-02,Sunday,Chicken Caesar Wraps,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Delivery,NONE,Novi
+O0072,C033,2026-02-08,2026-02-02,Sunday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0073,C039,2026-02-08,2026-02-02,Sunday,Cajun Shrimp Wraps,Seafood,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0074,C011,2026-02-08,2026-02-02,Sunday,Steak Alfredo,Bowl/Pasta,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0075,C071,2026-02-09,2026-02-09,Monday,Ground Beef + Pasta,Bowl/Pasta,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0076,C034,2026-02-09,2026-02-09,Monday,Chicken Pesto Pasta,Bowl/Pasta,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Novi
+O0077,C023,2026-02-09,2026-02-09,Monday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0078,C069,2026-02-09,2026-02-09,Monday,Shrimp Alfredo,Seafood,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0079,C033,2026-02-09,2026-02-09,Monday,Air-Fried Chicken Sandwich,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0080,C025,2026-02-09,2026-02-09,Monday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,FITWEEK,Taylor
+O0081,C084,2026-02-09,2026-02-09,Monday,Turkey Bacon Wrap,Wrap,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0082,C058,2026-02-09,2026-02-09,Monday,BBQ Chicken Pizza,Handheld,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0083,C010,2026-02-10,2026-02-09,Tuesday,Chicken Shawarma Wraps,Wrap,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0084,C001,2026-02-10,2026-02-09,Tuesday,Cajun Shrimp Wraps,Seafood,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0085,C019,2026-02-10,2026-02-09,Tuesday,Chicken Pesto Pasta,Bowl/Pasta,4,$4.99,$19.96,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0086,C002,2026-02-10,2026-02-09,Tuesday,Taco Salad,Salad,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0087,C005,2026-02-10,2026-02-09,Tuesday,Ground Beef Pizza,Handheld,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0088,C071,2026-02-10,2026-02-09,Tuesday,Turkey Bacon Wrap,Wrap,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0089,C037,2026-02-11,2026-02-09,Wednesday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0090,C003,2026-02-11,2026-02-09,Wednesday,Turkey Bacon Wrap,Wrap,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Dearborn Heights
+O0091,C056,2026-02-11,2026-02-09,Wednesday,Grilled Chicken + Red Potatoes,Protein Plate,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0092,C021,2026-02-11,2026-02-09,Wednesday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0093,C012,2026-02-11,2026-02-09,Wednesday,Cajun Shrimp Wraps,Seafood,3,$6.99,$18.87,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0094,C037,2026-02-11,2026-02-09,Wednesday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,3,$6.00,$18.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Taylor
+O0095,C039,2026-02-11,2026-02-09,Wednesday,Chicken Caesar Wraps,Wrap,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,FITWEEK,Dearborn Heights
+O0096,C078,2026-02-11,2026-02-09,Wednesday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0097,C082,2026-02-11,2026-02-09,Wednesday,Cajun Shrimp Wraps,Seafood,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
+O0098,C073,2026-02-11,2026-02-09,Wednesday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0099,C032,2026-02-12,2026-02-09,Thursday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,BULK5,Southfield
+O0100,C042,2026-02-12,2026-02-09,Thursday,Steak Alfredo,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0101,C084,2026-02-12,2026-02-09,Thursday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0102,C065,2026-02-12,2026-02-09,Thursday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0103,C058,2026-02-12,2026-02-09,Thursday,Chicken Caesar Wraps,Wrap,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0104,C046,2026-02-12,2026-02-09,Thursday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0105,C006,2026-02-12,2026-02-09,Thursday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0106,C007,2026-02-12,2026-02-09,Thursday,BBQ Chicken Pizza,Handheld,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,FITWEEK,Dearborn Heights
+O0107,C015,2026-02-13,2026-02-09,Friday,Chicken Meatballs + Pasta,Bowl/Pasta,4,$5.49,$21.96,One-Time,One-Time Purchase,Delivery,NONE,Taylor
+O0108,C088,2026-02-13,2026-02-09,Friday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0109,C079,2026-02-13,2026-02-09,Friday,Chicken Caesar Wraps,Wrap,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Delivery,NONE,Novi
+O0110,C027,2026-02-13,2026-02-09,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0111,C024,2026-02-13,2026-02-09,Friday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0112,C022,2026-02-13,2026-02-09,Friday,Grilled Chicken + Red Potatoes,Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0113,C072,2026-02-13,2026-02-09,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0114,C081,2026-02-13,2026-02-09,Friday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Delivery,NONE,Canton
+O0115,C019,2026-02-13,2026-02-09,Friday,Ground Beef + Pasta,Bowl/Pasta,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0116,C007,2026-02-13,2026-02-09,Friday,Chicken Caesar Wraps,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Canton
+O0117,C085,2026-02-13,2026-02-09,Friday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0118,C054,2026-02-13,2026-02-09,Friday,BBQ Chicken Pizza,Handheld,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Dearborn Heights
+O0119,C003,2026-02-13,2026-02-09,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Taylor
+O0120,C075,2026-02-14,2026-02-09,Saturday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Taylor
+O0121,C002,2026-02-14,2026-02-09,Saturday,Lite Bacon Cheeseburger,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0122,C035,2026-02-14,2026-02-09,Saturday,The Kafta Burger,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0123,C045,2026-02-14,2026-02-09,Saturday,Turkey Bacon Wrap,Wrap,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0124,C032,2026-02-14,2026-02-09,Saturday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Taylor
+O0125,C021,2026-02-14,2026-02-09,Saturday,Shrimp Alfredo,Seafood,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0126,C019,2026-02-14,2026-02-09,Saturday,Chicken Pesto Pasta,Bowl/Pasta,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0127,C079,2026-02-14,2026-02-09,Saturday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Delivery,NONE,Southfield
+O0128,C062,2026-02-14,2026-02-09,Saturday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$6.99,$6.99,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0129,C084,2026-02-14,2026-02-09,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0130,C016,2026-02-14,2026-02-09,Saturday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,3,$6.00,$18.00,Subscription,5 Meals ($6.00 ea.),Pickup,FITWEEK,Dearborn Heights
+O0131,C035,2026-02-14,2026-02-09,Saturday,Southwest Chipotle Chicken Wraps,Wrap,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,BULK5,Redford
+O0132,C083,2026-02-15,2026-02-09,Sunday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0133,C026,2026-02-15,2026-02-09,Sunday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0134,C031,2026-02-15,2026-02-09,Sunday,Chicken Shawarma Wraps,Wrap,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Canton
+O0135,C061,2026-02-15,2026-02-09,Sunday,Chicken Caesar Wraps,Wrap,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0136,C030,2026-02-15,2026-02-09,Sunday,BBQ Chicken Pizza,Handheld,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0137,C073,2026-02-15,2026-02-09,Sunday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0138,C045,2026-02-15,2026-02-09,Sunday,Lite Bacon Cheeseburger,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0139,C006,2026-02-15,2026-02-09,Sunday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0140,C069,2026-02-15,2026-02-09,Sunday,BBQ Chicken Pizza,Handheld,3,$4.99,$13.47,One-Time,One-Time Purchase,Delivery,SPRING10,Dearborn Heights
+O0141,C032,2026-02-15,2026-02-09,Sunday,Grilled Chicken + Red Potatoes,Protein Plate,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Delivery,FITWEEK,Southfield
+O0142,C012,2026-02-15,2026-02-09,Sunday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0143,C041,2026-02-16,2026-02-16,Monday,Taco Salad,Salad,1,$5.99,$5.99,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0144,C048,2026-02-16,2026-02-16,Monday,Shrimp Alfredo,Seafood,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0145,C004,2026-02-16,2026-02-16,Monday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,BULK5,Southfield
+O0146,C007,2026-02-16,2026-02-16,Monday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0147,C022,2026-02-16,2026-02-16,Monday,BBQ Chicken Meatballs + Broccoli,Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0148,C001,2026-02-16,2026-02-16,Monday,Grilled Chicken + Red Potatoes,Protein Plate,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,BULK5,Novi
+O0149,C076,2026-02-16,2026-02-16,Monday,Chicken Caesar Wraps,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0150,C064,2026-02-17,2026-02-16,Tuesday,Grilled Chicken + Red Potatoes,Protein Plate,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0151,C072,2026-02-17,2026-02-16,Tuesday,Turkey Bacon Wrap,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0152,C012,2026-02-17,2026-02-16,Tuesday,BBQ Chicken Pizza,Handheld,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0153,C070,2026-02-17,2026-02-16,Tuesday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0154,C017,2026-02-17,2026-02-16,Tuesday,Shrimp Alfredo,Seafood,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Canton
+O0155,C042,2026-02-17,2026-02-16,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$6.99,$20.97,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0156,C060,2026-02-18,2026-02-16,Wednesday,Shrimp Alfredo,Seafood,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0157,C031,2026-02-18,2026-02-16,Wednesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Taylor
+O0158,C020,2026-02-18,2026-02-16,Wednesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0159,C025,2026-02-18,2026-02-16,Wednesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0160,C050,2026-02-18,2026-02-16,Wednesday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,WELCOME10,Taylor
+O0161,C014,2026-02-18,2026-02-16,Wednesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0162,C056,2026-02-18,2026-02-16,Wednesday,Turkey Bacon Wrap,Wrap,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0163,C052,2026-02-18,2026-02-16,Wednesday,Meat Shawarma Bowl,Bowl/Pasta,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Southfield
+O0164,C030,2026-02-19,2026-02-16,Thursday,Chicken Shawarma Wraps,Wrap,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0165,C041,2026-02-19,2026-02-16,Thursday,Turkey Bacon Wrap,Wrap,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0166,C081,2026-02-19,2026-02-16,Thursday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0167,C067,2026-02-19,2026-02-16,Thursday,BBQ Chicken Pizza,Handheld,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0168,C014,2026-02-19,2026-02-16,Thursday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0169,C067,2026-02-19,2026-02-16,Thursday,Chicken Shawarma Wraps,Wrap,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0170,C003,2026-02-19,2026-02-16,Thursday,Chicken Caesar Wraps,Wrap,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Novi
+O0171,C027,2026-02-19,2026-02-16,Thursday,Steak Alfredo,Bowl/Pasta,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0172,C046,2026-02-19,2026-02-16,Thursday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0173,C054,2026-02-19,2026-02-16,Thursday,Southwest Chipotle Chicken Wraps,Wrap,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Southfield
+O0174,C068,2026-02-20,2026-02-16,Friday,The Kafta Burger,Handheld,4,$5.49,$21.96,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0175,C082,2026-02-20,2026-02-16,Friday,Turkey Bacon Wrap,Wrap,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Delivery,NONE,Redford
+O0176,C086,2026-02-20,2026-02-16,Friday,Chicken Caesar Wraps,Wrap,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Delivery,NONE,Canton
+O0177,C084,2026-02-20,2026-02-16,Friday,Shrimp Alfredo,Seafood,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0178,C049,2026-02-20,2026-02-16,Friday,Taco Salad,Salad,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0179,C046,2026-02-20,2026-02-16,Friday,Turkey Bacon Wrap,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0180,C011,2026-02-20,2026-02-16,Friday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$5.99,$16.17,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0181,C042,2026-02-20,2026-02-16,Friday,Chicken Parmesan Stuffed Peppers,Low Carb,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0182,C027,2026-02-20,2026-02-16,Friday,Turkey Bacon Wrap,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0183,C024,2026-02-20,2026-02-16,Friday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0184,C022,2026-02-20,2026-02-16,Friday,BBQ Chicken Pizza,Handheld,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0185,C082,2026-02-20,2026-02-16,Friday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0186,C072,2026-02-21,2026-02-16,Saturday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,BULK5,Canton
+O0187,C008,2026-02-21,2026-02-16,Saturday,BBQ Chicken Pizza,Handheld,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Canton
+O0188,C077,2026-02-21,2026-02-16,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0189,C038,2026-02-21,2026-02-16,Saturday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,FITWEEK,Taylor
+O0190,C082,2026-02-21,2026-02-16,Saturday,Turkey Bacon Wrap,Wrap,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Redford
+O0191,C013,2026-02-21,2026-02-16,Saturday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,SPRING10,Southfield
+O0192,C054,2026-02-21,2026-02-16,Saturday,Ground Beef + Pasta,Bowl/Pasta,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,WELCOME10,Canton
+O0193,C071,2026-02-21,2026-02-16,Saturday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0194,C038,2026-02-21,2026-02-16,Saturday,Chicken Caesar Wraps,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Canton
+O0195,C027,2026-02-22,2026-02-16,Sunday,The Kafta Burger,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0196,C076,2026-02-22,2026-02-16,Sunday,The Kafta Burger,Handheld,4,$4.99,$19.96,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0197,C070,2026-02-22,2026-02-16,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0198,C078,2026-02-22,2026-02-16,Sunday,The Kafta Burger,Handheld,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0199,C081,2026-02-22,2026-02-16,Sunday,BBQ Chicken Pizza,Handheld,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0200,C081,2026-02-22,2026-02-16,Sunday,Grilled Chicken + Red Potatoes,Protein Plate,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,SPRING10,Dearborn Heights
+O0201,C084,2026-02-22,2026-02-16,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0202,C034,2026-02-22,2026-02-16,Sunday,Taco Salad,Salad,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0203,C007,2026-02-22,2026-02-16,Sunday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0204,C074,2026-02-22,2026-02-16,Sunday,Air-Fried Chicken Sandwich,Handheld,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0205,C020,2026-02-22,2026-02-16,Sunday,Shrimp Alfredo,Seafood,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0206,C081,2026-02-23,2026-02-23,Monday,Taco Salad,Salad,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,WELCOME10,Dearborn Heights
+O0207,C028,2026-02-23,2026-02-23,Monday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0208,C024,2026-02-23,2026-02-23,Monday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0209,C011,2026-02-23,2026-02-23,Monday,Ground Beef Pizza,Handheld,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Delivery,NONE,Redford
+O0210,C007,2026-02-23,2026-02-23,Monday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0211,C011,2026-02-23,2026-02-23,Monday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Novi
+O0212,C008,2026-02-24,2026-02-23,Tuesday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Dearborn Heights
+O0213,C047,2026-02-24,2026-02-23,Tuesday,Turkey Bacon Wrap,Wrap,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0214,C035,2026-02-24,2026-02-23,Tuesday,Ground Beef + Pasta,Bowl/Pasta,1,$6.99,$6.99,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0215,C077,2026-02-24,2026-02-23,Tuesday,Chicken Shawarma Wraps,Wrap,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0216,C040,2026-02-24,2026-02-23,Tuesday,Taco Salad,Salad,4,$6.99,$27.96,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0217,C078,2026-02-24,2026-02-23,Tuesday,The Kafta Burger,Handheld,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0218,C055,2026-02-24,2026-02-23,Tuesday,Chicken Caesar Wraps,Wrap,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,BULK5,Taylor
+O0219,C074,2026-02-24,2026-02-23,Tuesday,Chicken Shawarma Wraps,Wrap,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Novi
+O0220,C045,2026-02-24,2026-02-23,Tuesday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0221,C040,2026-02-25,2026-02-23,Wednesday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0222,C076,2026-02-25,2026-02-23,Wednesday,The Kafta Burger,Handheld,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0223,C009,2026-02-25,2026-02-23,Wednesday,Steak Alfredo,Bowl/Pasta,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0224,C042,2026-02-25,2026-02-23,Wednesday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0225,C038,2026-02-25,2026-02-23,Wednesday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0226,C032,2026-02-25,2026-02-23,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Dearborn Heights
+O0227,C020,2026-02-25,2026-02-23,Wednesday,Cajun Shrimp Wraps,Seafood,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0228,C005,2026-02-25,2026-02-23,Wednesday,Chicken Shawarma Wraps,Wrap,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0229,C055,2026-02-26,2026-02-23,Thursday,Air-Fried Chicken Sandwich,Handheld,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Delivery,BULK5,Redford
+O0230,C005,2026-02-26,2026-02-23,Thursday,Chicken Pesto Pasta,Bowl/Pasta,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0231,C072,2026-02-26,2026-02-23,Thursday,Chicken Shawarma Wraps,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0232,C077,2026-02-26,2026-02-23,Thursday,Grilled Chicken + Red Potatoes,Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0233,C083,2026-02-26,2026-02-23,Thursday,Southwest Chipotle Chicken Wraps,Wrap,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0234,C031,2026-02-26,2026-02-23,Thursday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0235,C004,2026-02-26,2026-02-23,Thursday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,WELCOME10,Novi
+O0236,C008,2026-02-26,2026-02-23,Thursday,Ground Beef + Pasta,Bowl/Pasta,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,FITWEEK,Redford
+O0237,C076,2026-02-26,2026-02-23,Thursday,Air-Fried Chicken Sandwich,Handheld,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0238,C016,2026-02-27,2026-02-23,Friday,Steak Alfredo,Bowl/Pasta,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Southfield
+O0239,C002,2026-02-27,2026-02-23,Friday,Lite Bacon Cheeseburger,Handheld,3,$6.49,$17.52,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
+O0240,C010,2026-02-27,2026-02-23,Friday,BBQ Chicken Pizza,Handheld,2,$5.99,$10.78,One-Time,One-Time Purchase,Delivery,BULK5,Novi
+O0241,C003,2026-02-27,2026-02-23,Friday,Air-Fried Chicken Sandwich,Handheld,4,$6.00,$24.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Dearborn Heights
+O0242,C081,2026-02-27,2026-02-23,Friday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Novi
+O0243,C071,2026-02-27,2026-02-23,Friday,Air-Fried Chicken Sandwich,Handheld,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0244,C004,2026-02-27,2026-02-23,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,3,$5.99,$17.97,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0245,C014,2026-02-27,2026-02-23,Friday,Air-Fried Chicken Sandwich,Handheld,3,$5.99,$17.97,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0246,C081,2026-02-27,2026-02-23,Friday,Ground Beef Pizza,Handheld,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0247,C047,2026-02-27,2026-02-23,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,4,$6.49,$23.36,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0248,C054,2026-02-27,2026-02-23,Friday,Chicken Caesar Wraps,Wrap,2,$4.99,$9.98,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0249,C057,2026-02-27,2026-02-23,Friday,Ground Beef + Pasta,Bowl/Pasta,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0250,C024,2026-02-28,2026-02-23,Saturday,Taco Salad,Salad,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0251,C018,2026-02-28,2026-02-23,Saturday,Shrimp Alfredo,Seafood,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0252,C078,2026-02-28,2026-02-23,Saturday,Shrimp Alfredo,Seafood,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0253,C081,2026-02-28,2026-02-23,Saturday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0254,C053,2026-02-28,2026-02-23,Saturday,Chicken Parmesan Stuffed Peppers,Low Carb,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0255,C012,2026-02-28,2026-02-23,Saturday,Taco Salad,Salad,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0256,C032,2026-02-28,2026-02-23,Saturday,Chicken Caesar Wraps,Wrap,4,$6.00,$24.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Canton
+O0257,C077,2026-02-28,2026-02-23,Saturday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0258,C046,2026-02-28,2026-02-23,Saturday,Chicken Caesar Wraps,Wrap,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0259,C074,2026-02-28,2026-02-23,Saturday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0260,C004,2026-02-28,2026-02-23,Saturday,The Kafta Burger,Handheld,2,$6.99,$13.98,One-Time,One-Time Purchase,Delivery,NONE,Taylor
+O0261,C024,2026-03-01,2026-02-23,Sunday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0262,C013,2026-03-01,2026-02-23,Sunday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0263,C031,2026-03-01,2026-02-23,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,WELCOME10,Dearborn Heights
+O0264,C060,2026-03-01,2026-02-23,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Taylor
+O0265,C070,2026-03-01,2026-02-23,Sunday,Meat Shawarma Bowl,Bowl/Pasta,3,$6.99,$20.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0266,C051,2026-03-01,2026-02-23,Sunday,Chicken Caesar Wraps,Wrap,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0267,C078,2026-03-01,2026-02-23,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0268,C052,2026-03-01,2026-02-23,Sunday,Ground Beef + Pasta,Bowl/Pasta,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,BULK5,Redford
+O0269,C052,2026-03-01,2026-02-23,Sunday,Ground Beef + Pasta,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Delivery,FITWEEK,Taylor
+O0270,C055,2026-03-01,2026-02-23,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0271,C065,2026-03-01,2026-02-23,Sunday,Meat Shawarma Bowl,Bowl/Pasta,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0272,C082,2026-03-01,2026-02-23,Sunday,BBQ Chicken Pizza,Handheld,4,$6.00,$24.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Canton
+O0273,C035,2026-03-01,2026-02-23,Sunday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,BULK5,Dearborn Heights
+O0274,C016,2026-03-02,2026-03-02,Monday,Taco Salad,Salad,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Redford
+O0275,C083,2026-03-02,2026-03-02,Monday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.49,$4.94,One-Time,One-Time Purchase,Delivery,FITWEEK,Redford
+O0276,C011,2026-03-02,2026-03-02,Monday,Ground Beef Pizza,Handheld,3,$5.60,$16.80,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0277,C053,2026-03-02,2026-03-02,Monday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Novi
+O0278,C079,2026-03-02,2026-03-02,Monday,Turkey Bacon Wrap,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0279,C039,2026-03-02,2026-03-02,Monday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0280,C025,2026-03-02,2026-03-02,Monday,Ground Beef Pizza,Handheld,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0281,C031,2026-03-03,2026-03-02,Tuesday,Ground Beef + Pasta,Bowl/Pasta,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Delivery,NONE,Redford
+O0282,C008,2026-03-03,2026-03-02,Tuesday,Ground Beef Pizza,Handheld,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Dearborn Heights
+O0283,C067,2026-03-03,2026-03-02,Tuesday,Air-Fried Chicken Sandwich,Handheld,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,WELCOME10,Southfield
+O0284,C020,2026-03-03,2026-03-02,Tuesday,Ground Beef + Pasta,Bowl/Pasta,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0285,C036,2026-03-03,2026-03-02,Tuesday,Grilled Chicken + Red Potatoes,Protein Plate,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,WELCOME10,Novi
+O0286,C035,2026-03-03,2026-03-02,Tuesday,Taco Salad,Salad,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0287,C064,2026-03-04,2026-03-02,Wednesday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,BULK5,Canton
+O0288,C078,2026-03-04,2026-03-02,Wednesday,Steak Alfredo,Bowl/Pasta,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0289,C038,2026-03-04,2026-03-02,Wednesday,Steak Alfredo,Bowl/Pasta,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0290,C064,2026-03-04,2026-03-02,Wednesday,Air-Fried Chicken Sandwich,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0291,C074,2026-03-04,2026-03-02,Wednesday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,SPRING10,Canton
+O0292,C032,2026-03-04,2026-03-02,Wednesday,Taco Salad,Salad,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0293,C073,2026-03-04,2026-03-02,Wednesday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,3,$6.49,$17.52,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0294,C067,2026-03-05,2026-03-02,Thursday,Steak Alfredo,Bowl/Pasta,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0295,C002,2026-03-05,2026-03-02,Thursday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0296,C072,2026-03-05,2026-03-02,Thursday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$6.99,$18.87,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0297,C080,2026-03-05,2026-03-02,Thursday,Ground Beef + Pasta,Bowl/Pasta,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0298,C041,2026-03-05,2026-03-02,Thursday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,3,$5.99,$17.97,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0299,C044,2026-03-05,2026-03-02,Thursday,BBQ Chicken Pizza,Handheld,4,$6.99,$27.96,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0300,C027,2026-03-05,2026-03-02,Thursday,BBQ Chicken Pizza,Handheld,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0301,C014,2026-03-05,2026-03-02,Thursday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0302,C002,2026-03-05,2026-03-02,Thursday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Delivery,NONE,Novi
+O0303,C013,2026-03-05,2026-03-02,Thursday,BBQ Chicken Meatballs + Broccoli,Protein Plate,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0304,C073,2026-03-05,2026-03-02,Thursday,Chicken Shawarma Wraps,Wrap,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Canton
+O0305,C053,2026-03-06,2026-03-02,Friday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,WELCOME10,Dearborn Heights
+O0306,C010,2026-03-06,2026-03-02,Friday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0307,C084,2026-03-06,2026-03-02,Friday,Southwest Chipotle Chicken Wraps,Wrap,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0308,C036,2026-03-06,2026-03-02,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Delivery,SPRING10,Dearborn Heights
+O0309,C045,2026-03-06,2026-03-02,Friday,Air-Fried Chicken Sandwich,Handheld,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0310,C075,2026-03-06,2026-03-02,Friday,Air-Fried Chicken Sandwich,Handheld,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0311,C076,2026-03-06,2026-03-02,Friday,Ground Beef + Pasta,Bowl/Pasta,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0312,C078,2026-03-06,2026-03-02,Friday,BBQ Chicken Pizza,Handheld,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0313,C087,2026-03-06,2026-03-02,Friday,Taco Salad,Salad,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0314,C012,2026-03-06,2026-03-02,Friday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Delivery,NONE,Redford
+O0315,C072,2026-03-07,2026-03-02,Saturday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,SPRING10,Southfield
+O0316,C009,2026-03-07,2026-03-02,Saturday,Taco Salad,Salad,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0317,C060,2026-03-07,2026-03-02,Saturday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Taylor
+O0318,C031,2026-03-07,2026-03-02,Saturday,Chicken Pesto Pasta,Bowl/Pasta,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0319,C060,2026-03-07,2026-03-02,Saturday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0320,C075,2026-03-07,2026-03-02,Saturday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$5.40,$10.80,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Taylor
+O0321,C034,2026-03-07,2026-03-02,Saturday,Air-Fried Chicken Sandwich,Handheld,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0322,C066,2026-03-07,2026-03-02,Saturday,Chicken Shawarma Wraps,Wrap,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,WELCOME10,Redford
+O0323,C050,2026-03-07,2026-03-02,Saturday,Lite Bacon Cheeseburger,Handheld,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0324,C023,2026-03-07,2026-03-02,Saturday,Ground Beef + Pasta,Bowl/Pasta,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0325,C065,2026-03-07,2026-03-02,Saturday,Chicken Pesto Pasta,Bowl/Pasta,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0326,C052,2026-03-07,2026-03-02,Saturday,Steak Alfredo,Bowl/Pasta,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Southfield
+O0327,C036,2026-03-08,2026-03-02,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,WELCOME10,Novi
+O0328,C004,2026-03-08,2026-03-02,Sunday,Meat Shawarma Bowl,Bowl/Pasta,4,$6.49,$25.96,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0329,C024,2026-03-08,2026-03-02,Sunday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0330,C006,2026-03-08,2026-03-02,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0331,C049,2026-03-08,2026-03-02,Sunday,Ground Beef Pizza,Handheld,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0332,C073,2026-03-08,2026-03-02,Sunday,Lite Bacon Cheeseburger,Handheld,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0333,C045,2026-03-08,2026-03-02,Sunday,Grilled Chicken + Red Potatoes,Protein Plate,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,BULK5,Dearborn Heights
+O0334,C075,2026-03-08,2026-03-02,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,4,$5.40,$21.60,Subscription,15 Meals ($5.40 ea.),Pickup,WELCOME10,Redford
+O0335,C027,2026-03-08,2026-03-02,Sunday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,3,$5.99,$17.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0336,C079,2026-03-08,2026-03-02,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0337,C081,2026-03-09,2026-03-09,Monday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,WELCOME10,Canton
+O0338,C017,2026-03-09,2026-03-09,Monday,Chicken Pesto Pasta,Bowl/Pasta,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Redford
+O0339,C023,2026-03-09,2026-03-09,Monday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,4,$6.99,$27.96,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0340,C008,2026-03-09,2026-03-09,Monday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Taylor
+O0341,C088,2026-03-09,2026-03-09,Monday,Southwest Chipotle Chicken Wraps,Wrap,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0342,C057,2026-03-09,2026-03-09,Monday,Turkey Bacon Wrap,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0343,C076,2026-03-09,2026-03-09,Monday,Meat Shawarma Bowl,Bowl/Pasta,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
+O0344,C087,2026-03-09,2026-03-09,Monday,Air-Fried Chicken Sandwich,Handheld,3,$6.99,$20.97,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0345,C038,2026-03-09,2026-03-09,Monday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0346,C015,2026-03-10,2026-03-09,Tuesday,Air-Fried Chicken Sandwich,Handheld,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0347,C047,2026-03-10,2026-03-09,Tuesday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0348,C011,2026-03-10,2026-03-09,Tuesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0349,C063,2026-03-10,2026-03-09,Tuesday,Ground Beef Pizza,Handheld,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Redford
+O0350,C081,2026-03-10,2026-03-09,Tuesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0351,C004,2026-03-10,2026-03-09,Tuesday,Shrimp Alfredo,Seafood,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0352,C088,2026-03-11,2026-03-09,Wednesday,Grilled Chicken + Red Potatoes,Protein Plate,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,BULK5,Redford
+O0353,C049,2026-03-11,2026-03-09,Wednesday,Turkey Bacon Wrap,Wrap,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0354,C048,2026-03-11,2026-03-09,Wednesday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0355,C052,2026-03-11,2026-03-09,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$4.94,One-Time,One-Time Purchase,Delivery,WELCOME10,Canton
+O0356,C075,2026-03-11,2026-03-09,Wednesday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$5.40,$10.80,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Novi
+O0357,C012,2026-03-11,2026-03-09,Wednesday,Chicken Shawarma Wraps,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0358,C005,2026-03-11,2026-03-09,Wednesday,Chicken Shawarma Wraps,Wrap,3,$6.99,$20.97,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0359,C085,2026-03-11,2026-03-09,Wednesday,Lite Bacon Cheeseburger,Handheld,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Southfield
+O0360,C023,2026-03-11,2026-03-09,Wednesday,Steak Alfredo,Bowl/Pasta,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0361,C073,2026-03-11,2026-03-09,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0362,C081,2026-03-11,2026-03-09,Wednesday,Steak Alfredo,Bowl/Pasta,4,$5.49,$21.96,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0363,C078,2026-03-12,2026-03-09,Thursday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Southfield
+O0364,C018,2026-03-12,2026-03-09,Thursday,Ground Beef + Pasta,Bowl/Pasta,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Taylor
+O0365,C087,2026-03-12,2026-03-09,Thursday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0366,C047,2026-03-12,2026-03-09,Thursday,Meat Shawarma Bowl,Bowl/Pasta,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0367,C026,2026-03-12,2026-03-09,Thursday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,SPRING10,Dearborn Heights
+O0368,C025,2026-03-12,2026-03-09,Thursday,Southwest Chipotle Chicken Wraps,Wrap,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0369,C070,2026-03-12,2026-03-09,Thursday,Lite Bacon Cheeseburger,Handheld,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0370,C053,2026-03-12,2026-03-09,Thursday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0371,C081,2026-03-12,2026-03-09,Thursday,Grilled Chicken + Red Potatoes,Protein Plate,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0372,C061,2026-03-13,2026-03-09,Friday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0373,C048,2026-03-13,2026-03-09,Friday,BBQ Chicken Meatballs + Broccoli,Protein Plate,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Dearborn Heights
+O0374,C018,2026-03-13,2026-03-09,Friday,BBQ Chicken Pizza,Handheld,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,FITWEEK,Dearborn Heights
+O0375,C046,2026-03-13,2026-03-09,Friday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0376,C002,2026-03-13,2026-03-09,Friday,Grilled Chicken + Red Potatoes,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0377,C063,2026-03-13,2026-03-09,Friday,Cajun Shrimp Wraps,Seafood,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Canton
+O0378,C015,2026-03-13,2026-03-09,Friday,Southwest Chipotle Chicken Wraps,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0379,C075,2026-03-13,2026-03-09,Friday,The Kafta Burger,Handheld,1,$5.40,$5.40,Subscription,15 Meals ($5.40 ea.),Pickup,NONE,Taylor
+O0380,C020,2026-03-13,2026-03-09,Friday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,3,$6.99,$18.87,One-Time,One-Time Purchase,Pickup,WELCOME10,Canton
+O0381,C033,2026-03-13,2026-03-09,Friday,Lite Bacon Cheeseburger,Handheld,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0382,C044,2026-03-13,2026-03-09,Friday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,SPRING10,Dearborn Heights
+O0383,C010,2026-03-13,2026-03-09,Friday,Chicken Caesar Wraps,Wrap,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Taylor
+O0384,C058,2026-03-13,2026-03-09,Friday,Chicken Shawarma Wraps,Wrap,4,$5.20,$20.80,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Canton
+O0385,C040,2026-03-14,2026-03-09,Saturday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0386,C060,2026-03-14,2026-03-09,Saturday,Air-Fried Chicken Sandwich,Handheld,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0387,C062,2026-03-14,2026-03-09,Saturday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.99,$5.99,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0388,C081,2026-03-14,2026-03-09,Saturday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0389,C034,2026-03-14,2026-03-09,Saturday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Delivery,FITWEEK,Dearborn Heights
+O0390,C072,2026-03-14,2026-03-09,Saturday,Chicken Shawarma Wraps,Wrap,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0391,C047,2026-03-14,2026-03-09,Saturday,The Kafta Burger,Handheld,2,$5.99,$10.78,One-Time,One-Time Purchase,Delivery,SPRING10,Southfield
+O0392,C010,2026-03-14,2026-03-09,Saturday,Shrimp Alfredo,Seafood,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Taylor
+O0393,C045,2026-03-14,2026-03-09,Saturday,Lite Bacon Cheeseburger,Handheld,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0394,C062,2026-03-14,2026-03-09,Saturday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,3,$6.99,$18.87,One-Time,One-Time Purchase,Delivery,BULK5,Taylor
+O0395,C027,2026-03-15,2026-03-09,Sunday,BBQ Chicken Pizza,Handheld,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0396,C039,2026-03-15,2026-03-09,Sunday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0397,C074,2026-03-15,2026-03-09,Sunday,Ground Beef + Pasta,Bowl/Pasta,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Delivery,NONE,Canton
+O0398,C023,2026-03-15,2026-03-09,Sunday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$5.99,$5.99,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0399,C055,2026-03-15,2026-03-09,Sunday,Chicken Caesar Wraps,Wrap,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0400,C070,2026-03-15,2026-03-09,Sunday,Shrimp Alfredo,Seafood,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0401,C007,2026-03-15,2026-03-09,Sunday,Air-Fried Chicken Sandwich,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0402,C013,2026-03-15,2026-03-09,Sunday,Meat Shawarma Bowl,Bowl/Pasta,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,FITWEEK,Dearborn Heights
+O0403,C010,2026-03-15,2026-03-09,Sunday,Ground Beef + Pasta,Bowl/Pasta,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0404,C002,2026-03-15,2026-03-09,Sunday,BBQ Chicken Meatballs + Broccoli,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0405,C052,2026-03-16,2026-03-16,Monday,The Kafta Burger,Handheld,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Dearborn Heights
+O0406,C012,2026-03-16,2026-03-16,Monday,Ground Beef + Pasta,Bowl/Pasta,2,$6.99,$12.58,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0407,C002,2026-03-16,2026-03-16,Monday,Ground Beef + Pasta,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Canton
+O0408,C043,2026-03-16,2026-03-16,Monday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0409,C046,2026-03-16,2026-03-16,Monday,Taco Salad,Salad,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0410,C085,2026-03-16,2026-03-16,Monday,Ground Beef + Pasta,Bowl/Pasta,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0411,C005,2026-03-16,2026-03-16,Monday,Turkey Bacon Wrap,Wrap,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0412,C047,2026-03-16,2026-03-16,Monday,Chicken Parmesan Stuffed Peppers,Low Carb,3,$6.99,$20.97,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0413,C084,2026-03-17,2026-03-16,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,4,$5.99,$23.96,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0414,C004,2026-03-17,2026-03-16,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0415,C034,2026-03-17,2026-03-16,Tuesday,Ground Kafta + Rice + Mixed Veggies,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0416,C068,2026-03-17,2026-03-16,Tuesday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$4.99,$9.98,One-Time,One-Time Purchase,Delivery,NONE,Novi
+O0417,C028,2026-03-17,2026-03-16,Tuesday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,3,$5.60,$16.80,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Dearborn Heights
+O0418,C085,2026-03-18,2026-03-16,Wednesday,The Kafta Burger,Handheld,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0419,C030,2026-03-18,2026-03-16,Wednesday,Steak Alfredo,Bowl/Pasta,1,$6.99,$6.29,One-Time,One-Time Purchase,Delivery,SPRING10,Southfield
+O0420,C029,2026-03-18,2026-03-16,Wednesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0421,C027,2026-03-18,2026-03-16,Wednesday,Shrimp Alfredo,Seafood,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0422,C028,2026-03-18,2026-03-16,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0423,C039,2026-03-18,2026-03-16,Wednesday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0424,C041,2026-03-18,2026-03-16,Wednesday,Cajun Shrimp Wraps,Seafood,4,$6.99,$27.96,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0425,C006,2026-03-19,2026-03-16,Thursday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0426,C004,2026-03-19,2026-03-16,Thursday,Chicken Meatballs + Pasta,Bowl/Pasta,4,$4.99,$19.96,One-Time,One-Time Purchase,Delivery,NONE,Taylor
+O0427,C065,2026-03-19,2026-03-16,Thursday,Grilled Chicken + Red Potatoes,Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0428,C044,2026-03-19,2026-03-16,Thursday,BBQ Chicken Pizza,Handheld,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0429,C081,2026-03-19,2026-03-16,Thursday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0430,C014,2026-03-19,2026-03-16,Thursday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,4,$4.99,$19.96,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0431,C063,2026-03-19,2026-03-16,Thursday,Taco Salad,Salad,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0432,C070,2026-03-19,2026-03-16,Thursday,Grilled Chicken + Red Potatoes,Protein Plate,2,$6.99,$12.58,One-Time,One-Time Purchase,Delivery,BULK5,Dearborn Heights
+O0433,C045,2026-03-19,2026-03-16,Thursday,Chicken Shawarma Wraps,Wrap,4,$5.49,$19.76,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0434,C002,2026-03-20,2026-03-16,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0435,C072,2026-03-20,2026-03-16,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Canton
+O0436,C037,2026-03-20,2026-03-16,Friday,Lite Bacon Cheeseburger,Handheld,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,FITWEEK,Redford
+O0437,C052,2026-03-20,2026-03-16,Friday,Ground Beef Pizza,Handheld,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,FITWEEK,Novi
+O0438,C053,2026-03-20,2026-03-16,Friday,Meat Shawarma Bowl,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,SPRING10,Canton
+O0439,C049,2026-03-20,2026-03-16,Friday,Chicken Caesar Wraps,Wrap,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0440,C007,2026-03-20,2026-03-16,Friday,Lite Bacon Cheeseburger,Handheld,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0441,C041,2026-03-20,2026-03-16,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,WELCOME10,Canton
+O0442,C044,2026-03-20,2026-03-16,Friday,Ground Beef Pizza,Handheld,4,$6.99,$27.96,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0443,C049,2026-03-20,2026-03-16,Friday,Lite Bacon Cheeseburger,Handheld,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,FITWEEK,Southfield
+O0444,C010,2026-03-21,2026-03-16,Saturday,Ground Beef Pizza,Handheld,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,SPRING10,Redford
+O0445,C061,2026-03-21,2026-03-16,Saturday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0446,C068,2026-03-21,2026-03-16,Saturday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0447,C023,2026-03-21,2026-03-16,Saturday,Chicken Caesar Wraps,Wrap,2,$5.49,$10.98,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0448,C006,2026-03-21,2026-03-16,Saturday,Steak Alfredo,Bowl/Pasta,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0449,C020,2026-03-21,2026-03-16,Saturday,Steak Alfredo,Bowl/Pasta,1,$5.99,$5.99,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0450,C039,2026-03-21,2026-03-16,Saturday,Southwest Chipotle Chicken Wraps,Wrap,1,$6.49,$6.49,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0451,C015,2026-03-21,2026-03-16,Saturday,Turkey Bacon Wrap,Wrap,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
+O0452,C001,2026-03-21,2026-03-16,Saturday,Keto Stuffed Beefy Bell Peppers,Low Carb,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0453,C049,2026-03-21,2026-03-16,Saturday,BBQ Chicken Meatballs + Broccoli,Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0454,C023,2026-03-21,2026-03-16,Saturday,Lite Bacon Cheeseburger,Handheld,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0455,C012,2026-03-22,2026-03-16,Sunday,Turkey Bacon Wrap,Wrap,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0456,C080,2026-03-22,2026-03-16,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0457,C053,2026-03-22,2026-03-16,Sunday,Cajun Shrimp Wraps,Seafood,3,$5.60,$16.80,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0458,C017,2026-03-22,2026-03-16,Sunday,Chicken Shawarma Wraps,Wrap,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0459,C010,2026-03-22,2026-03-16,Sunday,Air-Fried Chicken Sandwich,Handheld,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Southfield
+O0460,C004,2026-03-22,2026-03-16,Sunday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0461,C054,2026-03-22,2026-03-16,Sunday,BBQ Chicken Pizza,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0462,C086,2026-03-22,2026-03-16,Sunday,Chicken Pesto Pasta,Bowl/Pasta,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Canton
+O0463,C043,2026-03-22,2026-03-16,Sunday,Shrimp Alfredo,Seafood,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0464,C002,2026-03-22,2026-03-16,Sunday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$4.99,$4.49,One-Time,One-Time Purchase,Pickup,WELCOME10,Dearborn Heights
+O0465,C088,2026-03-22,2026-03-16,Sunday,Lite Bacon Cheeseburger,Handheld,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Southfield
+O0466,C054,2026-03-22,2026-03-16,Sunday,Taco Salad,Salad,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0467,C067,2026-03-23,2026-03-23,Monday,Ground Beef Pizza,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0468,C085,2026-03-23,2026-03-23,Monday,Steak Alfredo,Bowl/Pasta,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0469,C032,2026-03-23,2026-03-23,Monday,Chicken Shawarma Wraps,Wrap,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0470,C069,2026-03-23,2026-03-23,Monday,Air-Fried Chicken Sandwich,Handheld,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,WELCOME10,Redford
+O0471,C026,2026-03-23,2026-03-23,Monday,Lite Bacon Cheeseburger,Handheld,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0472,C009,2026-03-23,2026-03-23,Monday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0473,C026,2026-03-24,2026-03-23,Tuesday,The Kafta Burger,Handheld,4,$5.49,$21.96,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0474,C057,2026-03-24,2026-03-23,Tuesday,BBQ Chicken Pizza,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0475,C007,2026-03-24,2026-03-23,Tuesday,Chicken Shawarma Wraps,Wrap,3,$5.49,$14.82,One-Time,One-Time Purchase,Pickup,BULK5,Dearborn Heights
+O0476,C072,2026-03-24,2026-03-23,Tuesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0477,C069,2026-03-24,2026-03-23,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,WELCOME10,Novi
+O0478,C013,2026-03-24,2026-03-23,Tuesday,The Kafta Burger,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0479,C057,2026-03-24,2026-03-23,Tuesday,Chicken Meatballs + Pasta,Bowl/Pasta,3,$6.49,$17.52,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0480,C038,2026-03-25,2026-03-23,Wednesday,Chicken Shawarma Wraps,Wrap,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0481,C040,2026-03-25,2026-03-23,Wednesday,Ground Beef + Pasta,Bowl/Pasta,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Southfield
+O0482,C030,2026-03-25,2026-03-23,Wednesday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0483,C070,2026-03-25,2026-03-23,Wednesday,Chicken Pesto Pasta,Bowl/Pasta,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0484,C052,2026-03-25,2026-03-23,Wednesday,Chicken Caesar Wraps,Wrap,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Southfield
+O0485,C068,2026-03-25,2026-03-23,Wednesday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0486,C012,2026-03-25,2026-03-23,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0487,C026,2026-03-25,2026-03-23,Wednesday,Keto Stuffed Beefy Bell Peppers,Low Carb,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0488,C075,2026-03-25,2026-03-23,Wednesday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,FITWEEK,Taylor
+O0489,C085,2026-03-25,2026-03-23,Wednesday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$5.20,$5.20,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Southfield
+O0490,C023,2026-03-26,2026-03-23,Thursday,The Kafta Burger,Handheld,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0491,C013,2026-03-26,2026-03-23,Thursday,Grilled Chicken + Red Potatoes,Protein Plate,2,$6.99,$13.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0492,C006,2026-03-26,2026-03-23,Thursday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0493,C046,2026-03-26,2026-03-23,Thursday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0494,C012,2026-03-26,2026-03-23,Thursday,BBQ Chicken Meatballs + Broccoli,Protein Plate,3,$5.99,$16.17,One-Time,One-Time Purchase,Pickup,SPRING10,Taylor
+O0495,C034,2026-03-26,2026-03-23,Thursday,BBQ Chicken Pizza,Handheld,1,$5.60,$5.60,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0496,C016,2026-03-26,2026-03-23,Thursday,Meat Shawarma Bowl,Bowl/Pasta,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Redford
+O0497,C026,2026-03-26,2026-03-23,Thursday,Steak Alfredo,Bowl/Pasta,2,$5.99,$10.78,One-Time,One-Time Purchase,Delivery,FITWEEK,Southfield
+O0498,C069,2026-03-26,2026-03-23,Thursday,Meat Shawarma Bowl,Bowl/Pasta,3,$6.99,$20.97,One-Time,One-Time Purchase,Delivery,NONE,Novi
+O0499,C027,2026-03-27,2026-03-23,Friday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0500,C055,2026-03-27,2026-03-23,Friday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Southfield
+O0501,C075,2026-03-27,2026-03-23,Friday,Meat Shawarma Bowl,Bowl/Pasta,2,$5.40,$10.80,Subscription,15 Meals ($5.40 ea.),Pickup,BULK5,Dearborn Heights
+O0502,C032,2026-03-27,2026-03-23,Friday,Ground Beef + Pasta,Bowl/Pasta,4,$6.00,$24.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Southfield
+O0503,C023,2026-03-27,2026-03-23,Friday,Ground Beef + Pasta,Bowl/Pasta,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,WELCOME10,Taylor
+O0504,C002,2026-03-27,2026-03-23,Friday,Taco Salad,Salad,2,$5.99,$11.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0505,C066,2026-03-27,2026-03-23,Friday,The Kafta Burger,Handheld,1,$5.49,$5.49,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0506,C088,2026-03-27,2026-03-23,Friday,Lite Bacon Cheeseburger,Handheld,4,$5.99,$21.56,One-Time,One-Time Purchase,Pickup,FITWEEK,Novi
+O0507,C005,2026-03-27,2026-03-23,Friday,Chicken Parmesan Stuffed Peppers,Low Carb,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,SPRING10,Southfield
+O0508,C009,2026-03-27,2026-03-23,Friday,Chicken Shawarma Wraps,Wrap,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,BULK5,Dearborn Heights
+O0509,C084,2026-03-27,2026-03-23,Friday,Air-Fried Chicken Tender Wrap with Ranch,Wrap,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,FITWEEK,Southfield
+O0510,C064,2026-03-27,2026-03-23,Friday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,3,$5.49,$14.82,One-Time,One-Time Purchase,Delivery,FITWEEK,Southfield
+O0511,C060,2026-03-27,2026-03-23,Friday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,1,$6.99,$6.29,One-Time,One-Time Purchase,Pickup,BULK5,Canton
+O0512,C076,2026-03-28,2026-03-23,Saturday,Turkey Bacon Wrap,Wrap,3,$6.99,$20.97,One-Time,One-Time Purchase,Delivery,NONE,Redford
+O0513,C030,2026-03-28,2026-03-23,Saturday,Chicken Pesto Pasta,Bowl/Pasta,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Canton
+O0514,C088,2026-03-28,2026-03-23,Saturday,Steak Alfredo,Bowl/Pasta,2,$4.99,$9.98,One-Time,One-Time Purchase,Pickup,NONE,Redford
+O0515,C049,2026-03-28,2026-03-23,Saturday,Cajun Wild Caught Salmon + Rice + Mixed Veggies,Seafood,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,WELCOME10,Southfield
+O0516,C077,2026-03-28,2026-03-23,Saturday,The Kafta Burger,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Dearborn Heights
+O0517,C061,2026-03-28,2026-03-23,Saturday,Taco Salad,Salad,2,$6.49,$12.98,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0518,C011,2026-03-28,2026-03-23,Saturday,Chicken Shawarma Wraps,Wrap,2,$5.60,$11.20,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Redford
+O0519,C024,2026-03-28,2026-03-23,Saturday,Taco Salad,Salad,2,$6.49,$11.68,One-Time,One-Time Purchase,Pickup,BULK5,Southfield
+O0520,C081,2026-03-28,2026-03-23,Saturday,Steak Alfredo,Bowl/Pasta,3,$4.99,$14.97,One-Time,One-Time Purchase,Pickup,NONE,Taylor
+O0521,C047,2026-03-28,2026-03-23,Saturday,Meat Shawarma Bowl,Bowl/Pasta,1,$5.49,$4.94,One-Time,One-Time Purchase,Pickup,BULK5,Novi
+O0522,C040,2026-03-28,2026-03-23,Saturday,Ground Beef + Pasta,Bowl/Pasta,4,$6.49,$25.96,One-Time,One-Time Purchase,Delivery,NONE,Taylor
+O0523,C051,2026-03-29,2026-03-23,Sunday,BBQ Chicken Meatballs + Broccoli,Protein Plate,3,$5.60,$16.80,Subscription,10 Meals ($5.60 ea.),Pickup,NONE,Canton
+O0524,C085,2026-03-29,2026-03-23,Sunday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,FITWEEK,Canton
+O0525,C086,2026-03-29,2026-03-23,Sunday,Shrimp Alfredo,Seafood,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Canton
+O0526,C043,2026-03-29,2026-03-23,Sunday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,4,$6.49,$25.96,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0527,C088,2026-03-29,2026-03-23,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,3,$6.49,$19.47,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0528,C047,2026-03-29,2026-03-23,Sunday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,3,$4.99,$13.47,One-Time,One-Time Purchase,Pickup,SPRING10,Novi
+O0529,C058,2026-03-29,2026-03-23,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,WELCOME10,Dearborn Heights
+O0530,C042,2026-03-29,2026-03-23,Sunday,Chicken Meatballs + Pasta,Bowl/Pasta,1,$6.49,$5.84,One-Time,One-Time Purchase,Pickup,FITWEEK,Taylor
+O0531,C076,2026-03-29,2026-03-23,Sunday,Chicken Parmesan Stuffed Peppers,Low Carb,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0532,C036,2026-03-29,2026-03-23,Sunday,Meat Shawarma Bowl,Bowl/Pasta,1,$6.00,$6.00,Subscription,5 Meals ($6.00 ea.),Pickup,NONE,Novi
+O0533,C087,2026-03-30,2026-03-30,Monday,Keto Stuffed Beefy Bell Peppers,Low Carb,4,$5.40,$21.60,Subscription,15 Meals ($5.40 ea.),Pickup,WELCOME10,Redford
+O0534,C042,2026-03-30,2026-03-30,Monday,Chicken Caesar Wraps,Wrap,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,BULK5,Redford
+O0535,C018,2026-03-30,2026-03-30,Monday,The Kafta Burger,Handheld,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Taylor
+O0536,C088,2026-03-30,2026-03-30,Monday,5oz Chicken Breast + 1 Cup Rice,Protein Plate,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Redford
+O0537,C024,2026-03-30,2026-03-30,Monday,Spaghetti with Steak and Meat Sauce,Bowl/Pasta,3,$5.99,$17.97,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0538,C014,2026-03-31,2026-03-30,Tuesday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,1,$5.99,$5.99,One-Time,One-Time Purchase,Delivery,NONE,Redford
+O0539,C015,2026-03-31,2026-03-30,Tuesday,Cajun Shrimp Wraps,Seafood,2,$5.49,$9.88,One-Time,One-Time Purchase,Pickup,BULK5,Redford
+O0540,C006,2026-03-31,2026-03-30,Tuesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,2,$5.49,$10.98,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0541,C053,2026-03-31,2026-03-30,Tuesday,Steak Alfredo,Bowl/Pasta,1,$5.99,$5.39,One-Time,One-Time Purchase,Pickup,SPRING10,Redford
+O0542,C081,2026-03-31,2026-03-30,Tuesday,BBQ Chicken Meatballs + Rice + Mixed Veggies,Protein Plate,1,$4.99,$4.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0543,C073,2026-03-31,2026-03-30,Tuesday,"Chicken Breast, Corn + Mashed Potatoes",Protein Plate,2,$5.99,$11.98,One-Time,One-Time Purchase,Delivery,NONE,Dearborn Heights
+O0544,C071,2026-03-31,2026-03-30,Tuesday,Shrimp Alfredo,Seafood,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,BULK5,Southfield
+O0545,C015,2026-03-31,2026-03-30,Tuesday,"Sirloin Tip Side Steak, Corn + Mashed Potatoes",Protein Plate,2,$5.99,$10.78,One-Time,One-Time Purchase,Pickup,FITWEEK,Southfield
+O0546,C052,2026-04-01,2026-03-30,Wednesday,The Kafta Burger,Handheld,2,$5.20,$10.40,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Redford
+O0547,C045,2026-04-01,2026-03-30,Wednesday,Lite Bacon Cheeseburger,Handheld,3,$5.49,$16.47,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0548,C037,2026-04-01,2026-03-30,Wednesday,Ground Beef + Pasta,Bowl/Pasta,2,$6.00,$12.00,Subscription,5 Meals ($6.00 ea.),Pickup,SPRING10,Dearborn Heights
+O0549,C074,2026-04-01,2026-03-30,Wednesday,Taco Salad,Salad,1,$6.99,$6.99,One-Time,One-Time Purchase,Pickup,NONE,Southfield
+O0550,C017,2026-04-01,2026-03-30,Wednesday,Southwest Chipotle Chicken Wraps,Wrap,3,$5.20,$15.60,Subscription,20 Meals ($5.20 ea.),Pickup,NONE,Redford
+O0551,C005,2026-04-01,2026-03-30,Wednesday,BBQ Chicken Pizza,Handheld,1,$6.49,$6.49,One-Time,One-Time Purchase,Pickup,NONE,Novi
+O0552,C079,2026-04-01,2026-03-30,Wednesday,Shrimp Alfredo,Seafood,2,$4.99,$8.98,One-Time,One-Time Purchase,Pickup,BULK5,Taylor
